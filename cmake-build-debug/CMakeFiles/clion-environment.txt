@@ -1,0 +1,2 @@
+ToolSet: w64 3.3@C:\gw64
+CMake: 3.6.3@C:\Users\reneg\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\163.10154.14\bin\cmake\bin\cmake.exe
